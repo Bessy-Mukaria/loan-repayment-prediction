@@ -1,7 +1,7 @@
 # Loan Prediction Data Science Project
 
 ## Overview
-This project aims to develop a loan prediction model for Numida using machine learning. The primary objective is to predict whether a loan will be repaid based on historical data. The model is built using the XGBoost algorithm.
+The aim of this project is to develop a machine learning model  that predicts loan repayment status based on historical borrower data. Specifically, the objective is to determine whether a loan will be fully repaid on tim, using a variety of borrower attributes and past transaction history.
 
 ## Project Structure
 The project is organized as follows:
@@ -83,6 +83,6 @@ The notebook allows you to experiment with the data, perform feature engineering
 
 
 ## Conclusion
-The loan prediction model shows promising results but requires further refinement to address challenges like class imbalance and overfitting. Future work should focus on improving feature diversity, tuning hyperparameters, and making the model more interpretable use in Numida's case scenario.
+The loan prediction model shows promising results but requires further refinement to address challenges like class imbalance and overfitting. Future work should focus on improving feature diversity, tuning hyperparameters, and making the model more interpretable use in a real-life financial case scenario.
 
 
